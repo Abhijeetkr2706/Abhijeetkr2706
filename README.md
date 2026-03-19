@@ -38,14 +38,6 @@ I’m a **Full-Stack Web Developer from India** passionate about building scalab
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Abhijeetkr2706&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Abhijeetkr2706&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetkr2706&theme=dark&hide_border=false&layout=compact)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=Abhijeetkr2706&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM -->
