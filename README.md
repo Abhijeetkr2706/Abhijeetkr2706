@@ -8,7 +8,7 @@ I’m a **Full-Stack Web Developer from India** passionate about building scalab
 🔭 **Working on:** Full-stack web projects & modern UI development  
 🧠 **Learning:** Advanced JavaScript & Data Structures and Algorithms  
 💬 **Ask me about:** React, REST APIs, Express, MongoDB, and web architecture  
-🏏 **Hobby:** Playing cricket in my free time  
+🏏 **Hobby:** Playing video games in my free time  
 
 ---
 
